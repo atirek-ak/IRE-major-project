@@ -1,2 +1,1 @@
-# IRE-major-project
-Time series prediction on social media data
+ # Time series prediction on social media data
